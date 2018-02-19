@@ -7,12 +7,6 @@
 // http://www.tokensalecalendar.com/
 
 module.exports = [{
-// Accord (ARD) Token sale
-to:         '0x75aa7b0d02532f3833b66c7f0ad35376d373ddf8',
-gasLimit:   300000,
-data:       '',
-msg:        ' Accord (ARD) ERC20 token sale - http://accordtoken.com'
-},{
 // BTQ Token Sale
 to:         '0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3',
 gasLimit:   200000,
@@ -259,4 +253,10 @@ to:         '0xF04436B2eDaa1B777045E1EEFc6DBA8bD2aEbAB8',
 gasLimit:   150000,
 data:       '',
 msg:        'COPYTRACK (CPY) Token Sale. Official sale website: https://copytrack.io'
+},{
+// WhoHas (WHO) Token Sale
+to:         '0xe200641890772FCe8eE6EDc5354cCEa30ac92F49',
+gasLimit:   200000,
+data:       '',
+msg:        'WhoHas-Token Sale. Please register through our offical website: https://whohas.io/'
 }]
